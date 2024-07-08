@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz di Economia Applicata all'Ingegneria</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Quiz di Economia Applicata all'Ingegneria</h1>
+        <div id="quiz-container">
+            <div id="question-container"></div>
+            <button id="next-button" onclick="nextQuestion()">Prossima Domanda</button>
+            <button id="help-button" onclick="showHelp()">HELP</button>
+            <button id="submit-button" onclick="submitQuiz()">Invia Quiz</button>
+        </div>
+        <div id="result-container" class="hidden">
+            <h2>Risultato</h2>
+            <p id="score"></p>
+            <button onclick="window.location.reload()">Rifai il Quiz</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
