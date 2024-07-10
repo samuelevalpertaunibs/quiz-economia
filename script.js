@@ -215,6 +215,15 @@ const questions = [
         correctAnswer: "A"
     },
     {
+        question: "22) L'impresa Alfa...",
+        answers: {
+            A: "0,50€",
+            B: "0,65€",
+            C: "0,70€",
+        },
+        correctAnswer: "A"
+    },
+    {
         question: "23) L’ammontare dei crediti verso clienti esprime un fabbisogno finanziario:",
         answers: {
             A: "di breve durata",
@@ -288,7 +297,7 @@ const questions = [
             C: "Acquisto di un macchinario",
             D: "Incasso di crediti finanziari a lungo termine",
         },
-        correctAnswer: "D"
+        correctAnswer: "A"
     },
     {
         question: "31) Le immobilizzazioni immateriali:",
@@ -307,7 +316,7 @@ const questions = [
             C: "Si, ma solo in periodi di inflazione",
             D: "No, ma solo quando i tassi di interesse aumentano",
         },
-        correctAnswer: "B"
+        correctAnswer: "A"
     },
     {
         question: "33) Fanno parte della gestione caratteristica di un’impresa industriale:",
