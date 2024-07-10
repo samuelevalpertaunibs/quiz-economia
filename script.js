@@ -65,7 +65,7 @@ const questions = [
             C: "Espansiva/la riduzione /l’offerta di moneta delle banche alle imprese",
             D: "Espansiva/l’aumento /la domanda di moneta delle imprese alle banche",
         },
-        correctAnswer: "B"
+        correctAnswer: "D"
     },
     {
         question: "7) In microeconomia la curva di domanda del mercato illustra:",
@@ -144,7 +144,7 @@ const questions = [
             C: "le combinazioni di costo di affitto di lavoro e capitale che si possono acquistare all’aumentare della produzione.",
             D: "tutte le possibili combinazioni di lavoro e capitale che si possono acquistare per un dato costo.",
         },
-        correctAnswer: "B"
+        correctAnswer: "D"
     },
     {
         question: "15) L’oligopolio si caratterizza per:",
@@ -174,7 +174,7 @@ const questions = [
             C: "rispondono solo gli azionisti con il patrimonio personale",
             D: "nessuna delle precedenti risposte",
         },
-        correctAnswer: "A"
+        correctAnswer: "B"
     },
     {
         question: "18) Il TIR:",
@@ -221,7 +221,7 @@ const questions = [
             B: "la cui durata dipende dai tempi di incasso dei crediti",
             C: "durevole nel tempo",
         },
-        correctAnswer: "A"
+        correctAnswer: "B"
     },
     {
         question: "24) I documenti che compongono il bilancio secondo l'articolo 2423 del codice civile sono:",
@@ -231,7 +231,7 @@ const questions = [
             C: "stato patrimoniale, conto economico, nota integrativa e relazione sulla gestione",
             D: "stato patrimoniale, conto economico, nota integrativa, relazione sulla gestione e relazione del collegio sindacale",
         },
-        correctAnswer: "C"
+        correctAnswer: "B"
     },
     {
         question: "25) Per il principio del duplice aspetto:",
@@ -250,7 +250,7 @@ const questions = [
             B: "le poste di Conto Economico e di Stato Patrimoniale",
             C: "le politiche e strategie aziendali",
         },
-        correctAnswer: "C"
+        correctAnswer: "A"
     },
     {
         question: "27) Una plusvalenza da alienazione di beni strumentali:",
@@ -326,7 +326,7 @@ const questions = [
             C: "indica un buon equilibrio finanziario dato dal fatto che la proprietà è riuscita ad autofinanziare gli investimenti nell’attivo immobilizzato",
             D: "tutte le precedenti risposte",
         },
-        correctAnswer: "C"
+        correctAnswer: "A"
     },
     {
         question: "35) Un margine di liquidità secondario < 0 indica:",
@@ -336,7 +336,7 @@ const questions = [
             C: "che le liquidità differite sono sufficienti a onorare gli impegni a breve termine",
             D: "nessuna delle precedenti risposte",
         },
-        correctAnswer: "B"
+        correctAnswer: "A"
     },
     {
         question: "36) Il Break Even Point:",
@@ -345,7 +345,7 @@ const questions = [
             B: "è il livello di produzione e vendita in corrispondenza del quale i ricavi di vendita sono uguali ai costi fissi",
             C: "è il livello di produzione e vendita in corrispondenza del quale i costi totali e i ricavi totali si equivalgono",
         },
-        correctAnswer: "B"
+        correctAnswer: "C"
     },
     {
         question: "37) I costi fissi a gradino:",
@@ -374,7 +374,7 @@ const questions = [
             C: "il costo dei materiali diretti e i costi della trasformazione",
             D: "il costo dei materiali diretti e i costi generali, commerciali e amministrativi",
         },
-        correctAnswer: "D"
+        correctAnswer: "C"
     },
     {
         question: "40) I costi di periodo sono:",
