@@ -65,7 +65,7 @@ const questions = [
             C: "Espansiva/la riduzione /l’offerta di moneta delle banche alle imprese",
             D: "Espansiva/l’aumento /la domanda di moneta delle imprese alle banche",
         },
-        correctAnswer: "D"
+        correctAnswer: "C"
     },
     {
         question: "7) In microeconomia la curva di domanda del mercato illustra:",
@@ -134,7 +134,7 @@ const questions = [
             C: "il costo totale di produzione dell’impresa diviso per la quantità prodotta.",
             D: "tutte le risposte precedenti sono vere.",
         },
-        correctAnswer: "C"
+        correctAnswer: "D"
     },
     {
         question: "14) Assumendo due fattori produttivi, lavoro e capitale, in un processo di produzione, le rette di isocosto mostrano:",
@@ -316,7 +316,7 @@ const questions = [
             C: "Si, ma solo in periodi di inflazione",
             D: "No, ma solo quando i tassi di interesse aumentano",
         },
-        correctAnswer: "A"
+        correctAnswer: "B"
     },
     {
         question: "33) Fanno parte della gestione caratteristica di un’impresa industriale:",
