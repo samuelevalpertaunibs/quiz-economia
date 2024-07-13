@@ -316,7 +316,7 @@ const questions = [
             C: "Si, ma solo in periodi di inflazione",
             D: "No, ma solo quando i tassi di interesse aumentano",
         },
-        correctAnswer: "B"
+        correctAnswer: "A"
     },
     {
         question: "33) Fanno parte della gestione caratteristica di un’impresa industriale:",
